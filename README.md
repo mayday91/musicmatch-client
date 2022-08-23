@@ -6,7 +6,8 @@ As a user I want to:
 - Change Password
 - Search for a playlist
 - Save playlists to my playlists
-- Listen to music continuously while searching for artists/playlists
+- Listen to music continuously while searching for playlists
+- Have playlists recommended and/or assembled based on mood
   
 ## TECH USED
 - Axios
